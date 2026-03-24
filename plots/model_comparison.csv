@@ -1,0 +1,4 @@
+Model,Test Accuracy
+BiGRU + Attention,83.80 %
+BiLSTM + Attention,82.07 %
+BiGRU + MultiHead Attn,82.53 %
